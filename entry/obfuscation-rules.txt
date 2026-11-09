@@ -1,0 +1,6 @@
+# Define project-specific obfuscation rules here.
+# See https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/source-obfuscation
+-enable-property-obfuscation
+-enable-toplevel-obfuscation
+-enable-filename-obfuscation
+-enable-export-obfuscation
