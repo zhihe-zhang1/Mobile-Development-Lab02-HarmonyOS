@@ -66,14 +66,17 @@ Column（屏幕主体）
 
 ## 实验截图
 
-请将实际模拟器运行的截图保存到 `screenshots/`：
+以下截图来自实验02在 HarmonyOS Phone 模拟器上的实际运行，展示了页面顶部与滚动后的课程列表。仓库中的 PNG 是为网页浏览优化过的裁切与压缩版本。
 
-- `01-home.png`：顶部标题、Banner、学习概览。
-- `02-bottom.png`：向上滚动后的快捷入口、课程列表与底部导航。
-- `03-project-structure.png`：DevEco Studio 工程目录、`Index.ets` 布局代码。
-- `04-responsive-layout.png`（建议）：不同窗口尺寸下的适配效果；如来自 Previewer，请如实注明。
+### 01. 学习中心首页
 
-目前上传的源码包没有包含实验2运行截图，截图需要在模拟器中实际运行后补充。
+![实验02首页：标题、Banner、学习概览与快捷入口](screenshots/01-home.png)
+
+### 02. 页面下半部分
+
+![实验02滚动后：快捷入口、课程列表及底部导航](screenshots/02-bottom.png)
+
+后续如需补充工程目录及适配过程，可添加 `03-project-structure.png`、`04-responsive-layout.png`。
 
 ## 版本控制
 
