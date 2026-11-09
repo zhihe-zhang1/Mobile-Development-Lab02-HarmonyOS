@@ -1,0 +1,30 @@
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer
+
+# DevEco Studio and locally generated outputs
+.idea/
+.hvigor/
+**/.preview/
+**/oh_modules/
+**/node_modules/
+**/build/
+local.properties
+*.log
+*.hap
+*.hsp
+*.har
+
+# private signing files
+*.p12
+*.p7b
+*.key
